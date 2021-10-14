@@ -1,0 +1,15 @@
+Hi,
+
+I am Sai Kumar Reddy Gheereddy, Business data analyst at Fetch Rewards. This mail is with regards to the concerns I have with brands, 
+receipts, and users data for the past few months. I have the below questions and ideas on the noticed problems.
+   1) Each of the tables has its own set of variables that has unstructured or semi-structured collection of data,
+      which questions the data collection methods that were applied.
+   2) I have found the data quality issues using pandas, a python library that helps in understanding the data.
+      I noticed a whole lot of null values and duplicate entries in the few columns. Missing values may lead to wrong decisions if not handled properly.
+   3) These missing values can be imputed with proper metrics or based on the generic information from a set of data.
+   4) Even after adjusting the data collection, the clean data size seems to grow exponentially in future and needs a scalable solution such as AWS S3 or Amazon Redshift.
+Please find the attached data and insights and kindly reach me if you need further information.
+
+Thanks and Regards
+Sai Kumar Reddy Gheereddy
+ew15777@umbc.edu
